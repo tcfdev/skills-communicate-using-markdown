@@ -16,3 +16,6 @@ func main() {
   fmt.Println("Hello there!")
 }
 ```
+- [ ] Step 1
+- [ ] Next step
+- [ ] Blocked by Step 1
